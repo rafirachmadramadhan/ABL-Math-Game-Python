@@ -2,11 +2,13 @@
 ABL-Math-Game-Python
 </h1>
 
+<p align="center">
 This program is a simple game that uses basic mathematical concepts such as addition, subtraction, multiplication and division. It is hoped that users who are playing this program can get experience playing as well as learning.
+</p>
 
-<h1 align="center">
+<h2 align="center">
 Preview Game
-</h1>
+</h2>
 <p align="center">
   <img width="30%" alt="ABL" title="ABL" src="https://user-images.githubusercontent.com/111117217/212335044-749bc3c0-e492-4154-8b6c-17f9c72a329c.png"/>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,3 +22,9 @@ Preview Game
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <img width="30%" alt="ABL" title="ABL" src="https://user-images.githubusercontent.com/111117217/212336708-bd33d2f0-f3f0-41f9-a95f-8b47759b3d6b.png"/>
 </p>
+
+<h2 align="center">
+Presented By
+</h2>
+<h3 align="center">Astika Eka Kirana and Rafi Rachmad Ramadhan</h3>
+ 
